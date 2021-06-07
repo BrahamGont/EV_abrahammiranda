@@ -1,2 +1,4 @@
 Abraham Danilo
 Miranda lopez
+java python 
+oracle mysql
